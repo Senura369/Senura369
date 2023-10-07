@@ -5,6 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senura369&label=Profile%20views&color=0e75b6&style=flat" alt="senura369" /> </p>
 
 <p align="left"> <a href="https://twitter.com/senura_369" target="blank"><img src="https://img.shields.io/twitter/follow/senura_369?logo=twitter&style=for-the-badge" alt="senura_369" /></a> </p>
@@ -16,10 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/senura_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senura_369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/senura-bhawantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/senura-bhawantha/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15204108/senura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15204108/senura" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/senura.bawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/senura.bawantha" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/senura_369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/senura_369/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senura-bhawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senura-bhawantha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15204108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15204108" height="30" width="40" /></a>
+<a href="https://instagram.com/senura_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senura_369" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/senura_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/senura_369" height="30" width="40" /></a>
 </p>
 
