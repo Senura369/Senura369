@@ -1,6 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://rishavchanda.io)
 
-
 <h1 align="center">Hi 👋, I'm Senura Bhawantha</h1>
 <h3 align="center">Undergraduate Software Engineering Student</h3>
 
@@ -28,5 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=senura369&show_icons=true&locale=en&layout=compact" alt="senura369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senura369&" alt="senura369" /></p>
-
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
